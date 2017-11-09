@@ -1,0 +1,9 @@
+C:\Projects\Visual\HadOlympiada\bin\Debug\HadOlympiada.exe.config
+C:\Projects\Visual\HadOlympiada\bin\Debug\HadOlympiada.exe
+C:\Projects\Visual\HadOlympiada\bin\Debug\HadOlympiada.pdb
+C:\Projects\Visual\HadOlympiada\obj\Debug\HadOlympiada.csprojResolveAssemblyReference.cache
+C:\Projects\Visual\HadOlympiada\obj\Debug\HadOlympiada.exe
+C:\Projects\Visual\HadOlympiada\obj\Debug\HadOlympiada.pdb
+C:\Users\Uzivatel\Desktop\HadOlympiada\bin\Debug\HadOlympiada.exe.config
+C:\Users\Uzivatel\Desktop\HadOlympiada\obj\Debug\HadOlympiada.exe
+C:\Users\Uzivatel\Desktop\HadOlympiada\obj\Debug\HadOlympiada.pdb

@@ -1,0 +1,48 @@
+
+body{
+    background-color: #7c7c7c;
+     
+    
+}
+h1{
+	font-size:64px;
+	font-family:Garamond;
+	color:#c3bc12;
+	font-style:italic;
+	text-align:center;
+}
+
+h2{
+	font-size:32px;
+	font-family:Garamond;
+	font-style:italic;
+	
+}
+
+.vel{
+	height:860px;
+	float:center;
+}
+
+.pravo
+{
+	float:right;
+	padding-right:100px;
+	padding-top:30px;
+	height:200px;
+}
+
+.levo
+{
+	padding-left:100px;
+	padding-top:30px;
+	height:200px;
+}
+
+a, a:visited{
+	padding-left:7px;
+	padding-right:7px;
+	text-decoration:none;
+	color:#7c7c7c ;
+	
+}

@@ -1,0 +1,6 @@
+C:\Users\zavodnik\Desktop\Had\Had\bin\Debug\Had.exe.config
+C:\Users\zavodnik\Desktop\Had\Had\bin\Debug\Had.exe
+C:\Users\zavodnik\Desktop\Had\Had\bin\Debug\Had.pdb
+C:\Users\zavodnik\Desktop\Had\Had\obj\Debug\Had.csprojResolveAssemblyReference.cache
+C:\Users\zavodnik\Desktop\Had\Had\obj\Debug\Had.exe
+C:\Users\zavodnik\Desktop\Had\Had\obj\Debug\Had.pdb

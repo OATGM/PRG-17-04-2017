@@ -1,0 +1,42 @@
+
+body{
+    background-color: #7c7c7c;
+     
+    
+}
+
+h1{
+	font-size:64px;
+	font-family:Garamond;
+	color:Red;
+	font-style:italic
+}
+
+h2{
+	font-size:32px;
+	font-family:arial;
+	color:Blue;
+}
+h3{
+	font-size:16px;
+	font-family:Times New Roman;
+	color:Green;
+}
+h4{
+	font-size:11px;
+	font-family:Georgia;
+	color:#3bf0f4;
+}
+h5{
+	font-size:8px;
+	font-family:Verdana;
+	color:#eaff3d;
+}
+
+/* Tajmeství ;) */
+
+h6{
+	font-size:4px;
+	font-family:MS Sans Serif;
+	color:Grey;
+}
